@@ -1,0 +1,102 @@
+body{
+font-family: 'Inter', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.first-container{
+    background-image: url(images/donation4.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/donation4.jpg);
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    padding-left: 200px;
+    color:white ;
+    text-align: center;
+}
+.first-container h1{
+font-size: 60px;
+}
+hr{
+    width: 50%;
+}
+.cta{
+    text-decoration: none;
+   background-image: linear-gradient(pink, tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 2px;
+}
+.secound-container{
+    text-align: center;
+}
+.border1{
+    border: 0px ;
+}
+.font-size{
+padding: 30px;
+margin: 20px;
+}
+.border{
+    color: rgb(240, 96, 120);
+    border: 2px solid rgb(240, 96, 120);
+}
+.third-container{
+    text-align: center;
+}
+.card-1{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    margin-top: 40px;
+    background-color: rgb(230, 215, 215);
+    margin: 20px;
+    
+}
+.card-2{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    margin-top: 40px;
+    background-color: rgb(213, 230, 236);
+    margin: 20px;
+}
+.card-3{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    margin-top: 40px;
+    background-color: rgb(206, 200, 218);
+    margin: 20px;
+}
+.all-card{
+    display: flex;
+    padding-left: 200px;
+}
+.fourth-container{
+    text-align: center;
+}
+
+.final-container{
+    background-color: black;
+    text-align: center;
+}
+.final-container h1{
+    color: orange;
+    font-family: lobster;
+    font-display: swap;
+}
+.final-container p{
+    color: white;
+}
+form{
+    display: flex;
+  }  
+  .background-color{
+    background-color: rgb(233, 222, 235);
+    padding: 60px;
+    margin-left: 400px;
+   width: 350px;
+
+  }
